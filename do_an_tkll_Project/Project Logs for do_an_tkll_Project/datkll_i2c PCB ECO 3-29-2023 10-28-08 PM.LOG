@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=PB6_SCL Pin=R1-1
+Removed Pin From Net: NetName=+VCC Pin=R1-2
+Removed Pin From Net: NetName=PB7_SDA Pin=R3-1
+Removed Pin From Net: NetName=+VCC Pin=R3-2
+Removed Pin From Net: NetName=PB7_SDA Pin=U1-A5_2
+Removed Pin From Net: NetName=PB6_SCL Pin=U1-A5_3
+Removed Member From Class: ClassName=I2C_schematic Member=R1
+Removed Member From Class: ClassName=I2C_schematic Member=R3
+Change Component Comment : Designator=B0 Old Comment=SEN-18364 New Comment=DHT20
+Added Component: Designator=D1(LED 10MM - RED)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VCC Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=+VCC Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-2
+Added Pin To Net: NetName=GND Pin=LCD1-7
+Added Pin To Net: NetName=GND Pin=LCD1-8
+Added Pin To Net: NetName=GND Pin=LCD1-9
+Added Pin To Net: NetName=GND Pin=LCD1-10
+Added Pin To Net: NetName=+VCC Pin=R4-1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=EN Pin=LCD1-6
+Added Pin To Net: NetName=EN Pin=U2-6
+Added Net: Name=EN
+Added Pin To Net: NetName=LED_LCD Pin=Q1-1
+Added Pin To Net: NetName=LED_LCD Pin=R2-2
+Added Pin To Net: NetName=LED_LCD Pin=U2-7
+Added Net: Name=LED_LCD
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=NetLCD1_3 Pin=R4-2
+Added Net: Name=NetLCD1_3
+Added Pin To Net: NetName=RD Pin=LCD1-5
+Added Pin To Net: NetName=RD Pin=U2-5
+Added Net: Name=RD
+Added Pin To Net: NetName=RS Pin=LCD1-4
+Added Pin To Net: NetName=RS Pin=U2-4
+Added Net: Name=RS
+Added Member To Class: ClassName=I2C_schematic Member=Component D1 LED RED
+Added Member To Class: ClassName=I2C_schematic Member=Component R4 4.7k

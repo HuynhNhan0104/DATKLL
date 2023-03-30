@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=I2C_schematic Member=S1
+Added Component: Designator=U2(SO16/PCF8574AT)
+Add component (AddParameter): Name = "BRAND"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "SO16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = "PCF8574AT/3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "SMD"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=I2C_schematic Member=Component U2 PCF8574AT

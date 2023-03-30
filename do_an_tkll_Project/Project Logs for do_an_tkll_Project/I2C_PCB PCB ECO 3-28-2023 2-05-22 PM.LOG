@@ -1,0 +1,9 @@
+Added Component: Designator=U1(NUCLEO)
+Add component (AddParameter): Name = "BRAND"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "NUCLEO-F103RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = "NUCLEO-F103RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = "497-14362-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EVAL BRD"; VariantName = "[No Variations]"
+Added Class: Name=I2C_schematic

@@ -1,0 +1,23 @@
+Added Component: Designator=LCD1(LCD 16x2)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S1(DTH11)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(NUCLEO)
+Add component (AddParameter): Name = "BRAND"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "NUCLEO-F103RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = "NUCLEO-F103RB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = "497-14362-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = "digi-key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EVAL BRD"; VariantName = "[No Variations]"
+Added Class: Name=I2C_schematic
