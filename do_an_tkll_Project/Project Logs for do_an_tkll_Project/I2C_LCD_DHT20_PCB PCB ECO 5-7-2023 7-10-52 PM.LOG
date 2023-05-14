@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+VCC Pin=B1-1
+Removed Pin From Net: NetName=SDA1 Pin=B1-2
+Removed Pin From Net: NetName=GND Pin=B1-3
+Removed Pin From Net: NetName=SCL1 Pin=B1-4
+Removed Member From Class: ClassName=I2C_schematic Member=B1
