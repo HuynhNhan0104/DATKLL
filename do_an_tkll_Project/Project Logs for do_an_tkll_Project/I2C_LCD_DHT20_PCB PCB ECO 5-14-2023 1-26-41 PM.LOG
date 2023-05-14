@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=LCD1-16
+Change Component Comment : Designator=R9 Old Comment=4.7k New Comment=10k
+Added Pin To Net: NetName=+VCC Pin=LCD1-15
+Added Pin To Net: NetName=NetLCD1_16 Pin=LCD1-16
+Added Pin To Net: NetName=NetLCD1_16 Pin=Q1-3
+Added Net: Name=NetLCD1_16
