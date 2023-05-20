@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LED_LCD Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=NetLCD1_16 Pin=Q1-3
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23 New Footprint=TO-92/W100
+Change Component Comment : Designator=R6 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R7 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R8 Old Comment=1k New Comment=10k
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetLCD1_16 Pin=Q1-2
+Added Pin To Net: NetName=LED_LCD Pin=Q1-3

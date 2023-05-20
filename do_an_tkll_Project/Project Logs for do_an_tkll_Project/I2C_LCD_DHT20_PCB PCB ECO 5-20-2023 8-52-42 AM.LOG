@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U2 Old Footprint=SO16/PCF8574AT New Footprint=DIP16
+Added Member To Class: ClassName=I2C_schematic Member=Component LCD1 LCD 16x2
